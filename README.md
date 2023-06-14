@@ -1,6 +1,4 @@
 # SmartHome
-Sure! Here's an example project concept for you:
-
 Project Name: SmartHome+
 
 Project Description:
